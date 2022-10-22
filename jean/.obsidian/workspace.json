@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "ade474734a8fbd71",
+    "type": "split",
+    "children": [
+      {
+        "id": "031dd5241e22fe88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "87560bf8bb0e58cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nestjs first step thoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8a4e45117b14464",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nestjs first step thoughts.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9caa9a424396af06",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4c7c8404b1c6a8ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb9ed7ade57f6e86",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e3d62bb5d76d712",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5af702da984c4956",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3c4e4f76c1db7c4",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6f55758f9c7c992e",
+    "type": "split",
+    "children": [
+      {
+        "id": "447bf1bf2f5ea589",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ddb0523dbd758a4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5831ae192aee40f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1717f064c8e998bd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2eac307f6f269383",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "9caa9a424396af06",
+  "lastOpenFiles": [
+    "2022-10-22.md",
+    "nestjs first step thoughts.md",
+    "nestjs second steop.md"
+  ]
+}
