@@ -35,8 +35,12 @@
             "id": "9caa9a424396af06",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "nestjs third step.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nestjs third step.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "nestjs third step.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "nestjs third step.md"
+              }
             }
           }
         ]
@@ -158,8 +166,9 @@
   },
   "active": "9caa9a424396af06",
   "lastOpenFiles": [
+    "nestjs second step  review.md",
+    "nestjs second step.md",
     "2022-10-22.md",
-    "nestjs first step thoughts.md",
-    "nestjs second steop.md"
+    "nestjs first step thoughts.md"
   ]
 }
