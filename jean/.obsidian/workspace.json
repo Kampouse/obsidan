@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "031dd5241e22fe88",
+        "id": "ca648d0851b08722",
         "type": "tabs",
         "children": [
           {
-            "id": "87560bf8bb0e58cd",
+            "id": "cb240cbf33771c42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nestjs first step thoughts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b8a4e45117b14464",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nestjs first step thoughts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9caa9a424396af06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "nestjs third step.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#step",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +61,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -110,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nestjs third step.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nestjs third step.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "nestjs third step.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -164,11 +132,16 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "9caa9a424396af06",
+  "active": "cb240cbf33771c42",
   "lastOpenFiles": [
+    "nestjs third step review.md",
+    "frontend.md",
+    "nestjs first step thoughts.md",
+    "nestjs third step.md",
     "nestjs second step  review.md",
     "nestjs second step.md",
-    "2022-10-22.md",
-    "nestjs first step thoughts.md"
+    "nestjs forth step.md",
+    "transcending.md",
+    "2022-10-22.md"
   ]
 }

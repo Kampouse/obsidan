@@ -3,4 +3,10 @@
 
 	checkout how to setup  session with cookies   and jwt 
 	 make pretty ui for registering
+	 
+#web 
+ 
+  [[transcending]]
+	[[backend]]
+	
 
